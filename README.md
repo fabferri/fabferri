@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+I'm a principal technical product manager in the Microsoft Azure networking team. I enjoy validation and verification of cloud architectures and playing with open source software.
+
+:cyclone: most of my content is in the [az-pattern](https://github.com/fabferri/az-pattern) repository
+
 <!--
 **fabferri/fabferri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
