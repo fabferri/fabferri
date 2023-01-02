@@ -5,7 +5,7 @@ I'm a principal technical product manager in the Microsoft Azure networking team
 :cyclone: most of my content is in the [az-pattern](https://github.com/fabferri/az-pattern) repository
 
 
-[![Fab's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fabferri&count_private=true&theme=tokyonight&showicons=true)]() <br>
+[![Fab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabferri&count_private=true&show_icons=true)
 
 
 
