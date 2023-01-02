@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a principal technical product manager in the Microsoft Azure networking team. I enjoy validation and verification of cloud architectures and playing with open source software.
+I'm a principal technical product manager in the Microsoft Azure networking team. I enjoy run validation and verification of cloud architectures and playing with open source software.
 
 :cyclone: most of my content is in the [az-pattern](https://github.com/fabferri/az-pattern) repository
 
