@@ -5,13 +5,13 @@ I'm a principal technical product manager in the Microsoft Azure networking team
 :cyclone: most of my content is in the [az-pattern](https://github.com/fabferri/az-pattern) repository
 
 
-[![Fab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabferri&count_private=true&show_icons=true)
+
 
 
 
 <!--
 **fabferri/fabferri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Fab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabferri&count_private=true&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
