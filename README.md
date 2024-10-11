@@ -2,7 +2,7 @@
 
 I'm a principal technical product manager in the Microsoft Azure networking team. I enjoy performing validation and verification of cloud architectures and playing with open source software.
 
-:cyclone: most of my content is in the [az-pattern](https://github.com/fabferri/az-pattern) repository
+:cyclone: The majority of my content is found in the repository [az-pattern](https://github.com/fabferri/az-pattern)
 
 
 
