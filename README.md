@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work for Microsoft on the Azure Networking team. I enjoy validating cloud architectures and I'm passionate about open-source software.
+I work for Microsoft in the Azure Networking team. I enjoy validating cloud architectures and I'm passionate about open-source software.
 
 :cyclone: The majority of my content is found in the repository [az-pattern](https://github.com/fabferri/az-pattern)
 
