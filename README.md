@@ -2,7 +2,7 @@
 
 I work for Microsoft in the Azure Networking team. I enjoy validating cloud architectures and I'm passionate about open-source software.
 
-:cyclone: The majority of my networking content is found in the repository [az-pattern](https://github.com/fabferri/az-pattern)
+:cyclone: The majority of my networking content is found in the repositories [az-vpn](https://github.com/fabferri/az-vpn) and [az-pattern](https://github.com/fabferri/az-pattern)
 
 
 
